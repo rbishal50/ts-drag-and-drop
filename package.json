@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rbishal50/ts-drag-and-drop/issues"
   },
-  "homepage": "https://github.com/rbishal50/ts-drag-and-drop#readme"
+  "homepage": "https://github.com/rbishal50/ts-drag-and-drop#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
