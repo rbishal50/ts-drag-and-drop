@@ -1,5 +1,7 @@
 # TS Drag and Drop
 
+A simple app using typescript!
+
 ## For running the project
 
 | Command          | Description                  |
